@@ -4,8 +4,8 @@
 using namespace std;
 int main() {
 	// Testing Main
-	char name[20] = "Ahmad Saeed";
-	char id[30] = "36301-9037815-3";
+	char name[20] = "Ehmad Saeed";
+	char id[30] = "12345-7891011-2";
 
 	// calling Employee class Functions
 
